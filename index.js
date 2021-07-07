@@ -28,7 +28,6 @@ client.on("ready", () => {
    client.user.setActivity("q!help", {type:"PLAYING"}) // Status //
     const gc = new GCommands(client, {
         cmdDir: "commands/",
-        eventDir: "events/", 
         language: "english", 
         slash: {
             slash: false, // SLASH COMMANDY // 
