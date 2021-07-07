@@ -3,7 +3,7 @@
 ##### **Basic Info**
 * **Prefix:** q!
 
-##### **Comands**
+##### **Commands**
 - q!generate  - generate a qr code
 - q!ping - show the ping
 - q!help - show command list
